@@ -1,4 +1,4 @@
-# Basic Chess 1V1
+# Basic Chess 
 Thank you to Github User [nagayev](https://github.com/nagayev) for assisting with the build instructions regarding CMAKE as well as some refactoring.
 
 ## About
