@@ -3,7 +3,7 @@
 ## About
 
 This is a chess program that I created in the winter of 2021. I am a big fan of the game and I always wanted to make the game on my own.  
-This version is a basic 1v1 chess game, so you can run the game and play with one of your friend. 
+This version is a basic 1v1 chess game, so you can run the game and play with one of your friends. 
 
 I based my work on video which was really helpful for me: https://www.youtube.com/watch?v=kwQk5A26cis&t=822s.
 
