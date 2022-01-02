@@ -1,4 +1,5 @@
 # Basic Chess 
+![Screenshot at 2022-01-02 20-46-16 (2)](https://user-images.githubusercontent.com/73020056/147887842-45c5ed84-fb7d-42f6-845f-ff62bd640e00.png)
 
 ## About
 
