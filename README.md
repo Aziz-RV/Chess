@@ -8,9 +8,11 @@ This version is a basic 1v1 chess game, so you can run the game and play with on
 
 I based my work on video which was really helpful for me: https://www.youtube.com/watch?v=kwQk5A26cis&t=822s.
 
-To make this be able to run, you will need to link both the SDL library, and the SDL_Image library. Eventually I will make this into a standalone download, but I believe that I will wait
-until I implement an actual artificial intelligence to play against.
+I developed in Linux so I used Cmake for building, you can check how to build below.  
 
+To make this be able to run, you will need to link both the SDL library, and the SDL_Image library.  
+# To change  
+I want add a computer mode in which you play against a AI with many levels.  
 
 ## Building
 This project use CMake for building.  
